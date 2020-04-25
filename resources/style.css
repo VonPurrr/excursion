@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Verdana", "sans-serif";
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+h2 {
+  font-size: 46px;
+  font-weight: 300;
+}
+
+#travel .txt {
+  color: gray;
+  font-size: 21px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
